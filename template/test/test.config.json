@@ -1,0 +1,23 @@
+{
+  "fieldName1": {
+    "page": 1,
+    "top": 178,
+    "left": 54,
+    "fontSize": 16,
+    "fontColor": "red"
+  },
+  "fieldName2": {
+    "page": 1,
+    "top": 117,
+    "left": 689,
+    "fontSize": "22",
+    "fontColor": "blue"
+  },
+  "fieldName": {
+    "page": 2,
+    "top": 251,
+    "left": 371,
+    "fontSize": "30",
+    "fontColor": "#000"
+  }
+}
